@@ -1,5 +1,4 @@
 
-````markdown
 ## 🚀 Setup Instructions
 
 ### 1. Copy the example environment file
