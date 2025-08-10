@@ -45,10 +45,3 @@ pip install google-genai python-dotenv
 ```bash
 python NutritionAI.py
 ```
-
-```
-
-This version is clean, GitHub-friendly, and copy-paste ready.  
-
-Do you also want me to make the **`.env.example`** file to go along with it so users can just copy and edit? That would make your repo even more user-friendly.
-```
